@@ -1,2 +1,4 @@
-bin/
+bin/dataset/LibriSpeech
+bin/dataset/SV2TTS
 not_i/
+

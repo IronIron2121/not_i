@@ -1,4 +1,4 @@
-from encoder.preprocess import preprocess_librispeech, preprocess_voxceleb1, preprocess_voxceleb2
+from modules.encoder.preprocess import preprocess_librispeech, preprocess_voxceleb1, preprocess_voxceleb2
 from modules.utils.argutils import print_args
 from pathlib import Path
 import argparse
